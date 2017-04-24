@@ -34,7 +34,7 @@ Internet device they carry around.
   <br>
   <br>
   <label>Phone number:
-    <input type="tel" name="phonenumber" size="15">
+    <input type="tel" name="phonenumber" size="15" pattern="\d{3}-\d{3}-\d{4}" title="xxx-xxx-xxxx">
   </label>
   <br>
   <br>
