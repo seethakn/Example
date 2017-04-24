@@ -5,15 +5,20 @@
 </head>
 <body>
 <h1>Responsive Web Design</h1>
-<p>
-Responsive web design is the key to future. Some of the main problems RWD addresses are as follows:
-1.Adapts to any screen - No matter what the screen size is, the website would be displayed properly to fit on the screen.
-2. Single URL - There would be neither a need formaintaining multiple URLs nor multiple code bases for the same website
-3. Aids speedy responsive website on mobile devices
-Helps load up pages faster on mobile screens than the desktop version for the mobile devices.
-4. SEO errors - Responsive web designing reduces most of the SEO errors and improves the search engine rankings for the website.
-5. Last but not the least it gives the BEST user experience there is!! Easy navigation and minimal scrolling.
-</p>
+
+Responsive web design is the key to future. <br>
+Some of the main problems RWD addresses are as follows:
+<ol  type="1">
+<li>Adapts to any screen - No matter what the screen size is, the website would
+  be displayed properly to fit on the screen.</li>
+<li>Single URL - There would be neither a need formaintaining multiple URLs nor
+  multiple code bases for the same website.</li>
+<li>Aids speedy responsive website on mobile devices
+Helps load up pages faster on mobile screens than the desktop version for the mobile devices.</li>
+<li>SEO errors - Responsive web designing reduces most of the SEO errors and improves the search engine
+  rankings for the website.</li>
+<li>Last but not the least it gives the BEST user experience there is!! Easy navigation and minimal scrolling.</li>
+</ol>
 
 <h3> Contact us to make your website responsive today!</h3>
 <form>
