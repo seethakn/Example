@@ -4,7 +4,7 @@
   <title>Responsive Web Design</title>
 </head>
 <body>
-<h1>Responsive Web Design Resolves</h1>
+<h1>Responsive Web Design</h1>
 <p>
 Responsive web design is the key to future.Some of the problems RWD addresses are as follows:
 1. SEO errors
