@@ -78,10 +78,12 @@ Internet device they carry around.
       <input type="radio" name="concern" value="Scalability" required>
       Lack of scalability
     </label>
+    <br>
     <label>
       <input type="radio" name="concern" value="SEO" required>
       Lack of better Search Engine rankings
     </label>
+    <br>
     <label>
       <input type="radio" name="concern" value="UI" required>
       Lack of image flexibility on user devices
