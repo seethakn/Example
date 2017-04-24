@@ -5,7 +5,7 @@
 </head>
 <body>
 <h1>Responsive Web Design</h1>
-
+Responsive web design is the key to future. Some of the main problems RWD addresses are as follows:
 <ol  type="1">
 <li>Adapts to any screen - No matter what the screen size is, the website would
   be displayed properly to fit on the screen.</li>
@@ -83,6 +83,7 @@ Helps load up pages faster on mobile screens than the desktop version for the mo
   <label>Do you have any other comments?
     <textarea name="comments"></textarea>
   </label>
+<br>
 <br>
   <input type="submit" name="submit" width="48" height="48" value="Send">
 </form>
