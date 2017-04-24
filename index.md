@@ -89,7 +89,8 @@ Internet device they carry around.
   </fieldset>
   <br>
   <label>Do you have any other comments?
-    <textarea name="comments"></textarea>
+    <br>
+    <textarea rows="5" cols="50" name="comments">Enter your comments here</textarea>
   </label>
 <br>
 <br>
