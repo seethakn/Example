@@ -5,7 +5,11 @@
 </head>
 <body>
 <h1>Responsive Web Design</h1>
-Responsive web design is the key to future. Some of the main problems RWD addresses are as follows:
+Responsive web design is the key to future. It is becoming more and more of a mobile world and the Internet 
+is mostly accessed through mobile browsing from everywhere in the world. Right from social media, online shopping, 
+searching for information, email communications, you name it – every possible thing via the internet needs user 
+satisfaction which can be attained only by responsive sites. 
+Some of the main problems responsive sites addresses are as follows:
 <ol  type="1">
 <li>Adapts to any screen - No matter what the screen size is, the website would
   be displayed properly to fit on the screen.</li>
@@ -17,8 +21,12 @@ Helps load up pages faster on mobile screens than the desktop version for the mo
   rankings for the website.</li>
 <li>Last but not the least it gives the BEST user experience there is with an easy navigation and minimal scrolling!!</li>
 </ol>
+Hence it is better now than never to upgrade your site to be responsive and let users use them from any 
+Internet device they carry around.
 
-<h3> Contact us to make your website responsive today!</h3>
+<h3> Are you ready to make your website responsive today?</h3>
+<h4> Contact us</h4>
+
 <form>
   <label>Your name:*
     <input type="text" name="name" size="40" autofocus required>
