@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  //<title>Seetha's Portfolio</title>
 </head>
 <body>
 <h1>Responsive Web Design</h1>
