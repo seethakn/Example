@@ -94,7 +94,7 @@ Internet device they carry around.
     <textarea rows="5" cols="50" name="comments">Enter your comments here</textarea>
   </label>
 <br>
-<br>
+<h6>*This field is required.</h6>
   <input type="submit" name="submit" value="Send">
 </form>
 </body>
