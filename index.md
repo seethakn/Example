@@ -5,11 +5,11 @@
 </head>
 <body>
 <h1>Responsive Web Design</h1>
-Responsive web design is the key to future. It is becoming more and more of a mobile world and the Internet 
-is mostly accessed through mobile browsing from everywhere in the world. Right from social media, online shopping, 
-searching for information, email communications, you name it – every possible thing via the internet needs user 
-satisfaction which can be attained only by responsive sites. 
-Some of the main problems responsive sites addresses are as follows:
+Responsive web design is the key to future. The world is becoming more mobile and the Internet is mostly
+accessed through mobile browsing from every corner. Right from social media, online shopping, searching for
+information, email communications, you name it – every possible thing via the internet needs to adapt on any
+screen which can be attained easily by responsive sites. Some of the main problems responsive sites address are
+as follows:
 <ol  type="1">
 <li>Adapts to any screen - No matter what the screen size is, the website would
   be displayed properly to fit on the screen.</li>
