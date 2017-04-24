@@ -15,11 +15,10 @@ as follows:
   be displayed properly to fit on the screen.</li>
 <li>Single URL - There would be neither a need for maintaining multiple URLs nor
   multiple code bases for the same website.</li>
-<li>Aids speedy responsive website on mobile devices
-Helps load up pages faster on mobile screens than the desktop version for the mobile devices.</li>
+<li>Aids speedy responsive website on mobile devices - Helps load up pages faster on mobile screens than the desktop version for the mobile devices.</li>
 <li>SEO errors - Responsive web designing reduces most of the SEO errors and improves the search engine
   rankings for the website.</li>
-<li>Last but not the least it gives the BEST user experience there is with an easy navigation and minimal scrolling!!</li>
+<li>Last but not the least it gives the BEST user experience there is with an easy screen navigation and minimal scrolling!!</li>
 </ol>
 Hence it is better now than never to upgrade your site to be responsive and let users use them from any 
 Internet device they carry around.
