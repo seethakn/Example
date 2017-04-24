@@ -1,10 +1,10 @@
-## Seetha's Portfolio
 <html lang="en">
 <head>
   <meta charset="utf-8">
+  <title>Responsive Web Design</title>
 </head>
 <body>
-<h1>Responsive Web Design</h1>
+<h1>Responsive Web Design Resolves</h1>
 <p>
 Responsive web design is the key to future.Some of the problems RWD addresses are as follows:
 1. SEO errors
@@ -17,9 +17,8 @@ No matter what the screen size is, the website will be displayed properly to fit
 5. Makes online shopping more accessible
 6. a very good user experience - easy navigation and minimal scrolling.
 </p>
-<br>
-<br>
-<h1> Contact us to make your website responsive today!</h1>
+
+<h3> Contact us to make your website responsive today!</h3>
 <form>
   <label>Your name:*
     <input type="text" name="name" size="40" autofocus required>
