@@ -28,7 +28,7 @@ Internet device they carry around.
 
 <form>
   <label>Your name:*
-    <input type="text" name="name" size="40" autofocus required>
+    <input type="text" name="name" size="40" required>
   </label>
   <br>
   <br>
