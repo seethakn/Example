@@ -93,7 +93,7 @@ Internet device they carry around.
   </label>
 <br>
 <br>
-  <input type="submit" name="submit" width="48" height="48" value="Send">
+  <input type="submit" name="submit" value="Send">
 </form>
 </body>
 </html>
