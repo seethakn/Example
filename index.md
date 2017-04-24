@@ -25,7 +25,7 @@ Hence it is better now than never to upgrade your site to be responsive and let 
 Internet device they carry around.
 
 <h3> Are you ready to make your website responsive today?</h3>
-<h4> Contact us</h4>
+<h3> Contact Us</h3>
 
 <form>
   <label>Your name:*
